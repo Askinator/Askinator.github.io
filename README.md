@@ -1,2 +1,2 @@
-# Askinator.github.io
+# Aske Wull Paustian
 My personal webpage
