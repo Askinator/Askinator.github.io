@@ -1,2 +1,1 @@
-# Aske Wull Paustian
-My personal webpage
+# My Personal webpage build with Jekyll
