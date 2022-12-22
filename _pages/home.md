@@ -1,1 +1,6 @@
-# Some title here
+---
+layout: splash
+classes:
+  - landing
+  - dark-theme
+---
